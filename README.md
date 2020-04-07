@@ -57,5 +57,8 @@ print "Spring"
 pass
 ```
 
-
+```javascript
+var data ="HR Spring";
+data.song = "너에게로 초대";
+```
 
