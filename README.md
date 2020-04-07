@@ -50,4 +50,12 @@
 코드 내용
 ```
 
+```python
+def func():
+print "HR Kim"
+print "Spring"
+pass
+```
+
+
 
