@@ -77,4 +77,4 @@ __강조텍스트__
 강조텍스트  
 
 이미지 넣기
-![튤립](https://github.com/HYKim8/eHRGit0101/blob/master/eHRGit0101/src/gettyimages.jpg,"이미지설명")
+![튤립](https://search.naver.com/search.naver?where=image&sm=tab_jum&query=%EC%84%9C%ED%98%84%EC%A7%84#imgId=blog14387385%7C27%7C220793247265_405523062&vType=rollout,"이미지설명")
